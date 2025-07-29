@@ -1,0 +1,20 @@
+{
+  "name": "odin-data-structs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Pichaku123/odin-data-structs#readme",
+  "bugs": {
+    "url": "https://github.com/Pichaku123/odin-data-structs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pichaku123/odin-data-structs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
